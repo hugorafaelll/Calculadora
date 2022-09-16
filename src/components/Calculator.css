@@ -13,6 +13,8 @@ button:hover{
 }
 
 .wrapper{
+    max-width: 193px;
+    min-width: 193px;
     background-color: black;
     border-radius: 1em;
     padding: 1em;
